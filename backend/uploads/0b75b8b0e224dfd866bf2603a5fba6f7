@@ -1,0 +1,13 @@
+COMPINIES
+
+1.GOLDMAN SACHS :-
+                    A Java developer at Goldman Sachs is primarily responsible for designing, developing, and maintaining complex financial applications using the Java programming language, working closely with business teams to build scalable, high-performance systems that support trading, risk management, asset management, and other critical financial functions within the firm, often leveraging advanced technologies like distributed systems, databases, and cloud computing.
+
+
+
+monolithic - micro;
+sql - no sql;
+database scaling.
+overall scalling ;
+red limiter;
+load balancer;
